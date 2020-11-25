@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "babel-jest": "25.2.3",
-    "jest": "25.2.3"
+    "babel-jest": "25.5.1",
+    "jest": "25.5.4"
   },
   "publishConfig": {
     "access": "public"
