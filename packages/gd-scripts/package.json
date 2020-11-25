@@ -45,7 +45,7 @@
     "@gabrielduartem/semantic-release-config": "1.0.0",
     "@gabrielduartem/typescript-config": "1.0.0",
     "arrify": "^2.0.1",
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "cross-spawn": "^7.0.1",
     "glob": "^7.1.6",
     "is-ci": "^2.0.0",
