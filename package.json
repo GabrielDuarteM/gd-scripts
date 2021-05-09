@@ -20,6 +20,6 @@
     "lerna": "3.20.2",
     "prettier": "2.0.2",
     "semantic-release": "17.0.4",
-    "semantic-release-monorepo": "7.0.1"
+    "semantic-release-monorepo": "7.0.5"
   }
 }
