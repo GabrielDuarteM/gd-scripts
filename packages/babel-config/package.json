@@ -12,7 +12,7 @@
     "@babel/preset-env": "7.9.0",
     "@babel/preset-react": "7.9.4",
     "@babel/preset-typescript": "7.9.0",
-    "babel-plugin-macros": "2.8.0",
+    "babel-plugin-macros": "3.1.0",
     "babel-plugin-minify-dead-code-elimination": "0.5.1",
     "read-pkg-up": "^7.0.1",
     "semver": "^7.1.3"
